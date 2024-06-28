@@ -11,4 +11,4 @@ venv¥Scripts¥activate.bat (for Windows)
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
-![FlowChart]] (https://phoenixnap.com/kb/wp-content/uploads/2021/09/git-workflow.png))
+![git-workflow](https://github.com/Hulkim-Wise/FirstRepo/assets/169566090/4ac4bd50-fb0c-4ffc-b1ba-74278c5f6342)
